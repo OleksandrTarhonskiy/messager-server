@@ -1,0 +1,7 @@
+export const CLIENT = {
+  SEND_MESSAGE: 'CLIENT_SEND_MESSAGE',
+};
+
+export const SERVER = {
+  SEND_MESSAGE: 'SERVER_SEND_MESSAGE',
+};
